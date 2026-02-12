@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html> 
 <head>
     <title>Hospital Token System</title>
     <link rel="stylesheet" href="style.css">
